@@ -75,3 +75,4 @@ src/
 > Proyecto educativo. Toda la metadata e imágenes pertenecen a sus respectivos
 > autores vía MyAnimeList.
 # anime
+# anime
